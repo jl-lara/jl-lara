@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Tu nombre]
+# 👋 Hey, I'm Lara
 
 ### 💻 Software Engineering Student · Backend Developer
 
