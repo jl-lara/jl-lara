@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm [Tu nombre]
 
-<!--
-**jl-lara/jl-lara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student · Backend Developer
 
-Here are some ideas to get you started:
+> Building things, breaking things, and learning how to build them better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Software Engineering · 2026
+🚀 Backend & API Development
+🐍 Python · FastAPI · Node.js
+🗄️ PostgreSQL · MySQL · MongoDB · Firebase
+🐳 Docker · GitHub Actions · Linux
+
+---
+
+### 🔨 Currently building
+
+**🐄 PeQ**
+Backend & REST APIs with `FastAPI` + `PostgreSQL`
+
+### 🧠 Currently learning
+
+`Docker` · `CI/CD` · `System Design` · `Linux`
+
+### ⚡ Beyond code
+
+Linux enthusiast · Gym · Local AI · Terminal enjoyer
+
+---
+
+### 🛠️ Tech I use
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,react,java,php,postgres,mysql,mongodb,firebase,docker,git,github,linux" />
+</p>
+
+---
+
+<p align="center">
+  <i>Build → Break → Learn → Repeat.</i>
+</p>
